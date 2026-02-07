@@ -1,0 +1,1 @@
+A simple front-end automation test using Python, Pytest and Playwright on the 'saucedemo.com' website that validates a positive and negative login flow and complete buy flow. 
