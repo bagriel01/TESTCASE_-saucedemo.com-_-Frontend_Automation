@@ -4,3 +4,4 @@ lib64
 .pytest_cache
 bin
 __pycache__
+pyvenv.cfg
